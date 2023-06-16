@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>简信Blog</title>
+  
+  <subtitle>一个分享趣事和技术的BLOG</subtitle>
+  <link href="http://cghscghs.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://cghscghs.github.io/"/>
+  <updated>2023-06-16T03:54:52.525Z</updated>
+  <id>http://cghscghs.github.io/</id>
+  
+  <author>
+    <name>简信</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>5</title>
+    <link href="http://cghscghs.github.io/2023/06/16/5/"/>
+    <id>http://cghscghs.github.io/2023/06/16/5/</id>
+    <published>2023-06-16T01:26:39.000Z</published>
+    <updated>2023-06-16T03:54:52.525Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>4</title>
+    <link href="http://cghscghs.github.io/2023/06/16/4/"/>
+    <id>http://cghscghs.github.io/2023/06/16/4/</id>
+    <published>2023-06-16T01:26:34.000Z</published>
+    <updated>2023-06-16T03:54:52.525Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>3</title>
+    <link href="http://cghscghs.github.io/2023/06/16/3/"/>
+    <id>http://cghscghs.github.io/2023/06/16/3/</id>
+    <published>2023-06-16T01:26:29.000Z</published>
+    <updated>2023-06-16T03:54:52.524Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2</title>
+    <link href="http://cghscghs.github.io/2023/06/16/2/"/>
+    <id>http://cghscghs.github.io/2023/06/16/2/</id>
+    <published>2023-06-16T01:26:25.000Z</published>
+    <updated>2023-06-16T03:54:52.524Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>1</title>
+    <link href="http://cghscghs.github.io/2023/06/16/1/"/>
+    <id>http://cghscghs.github.io/2023/06/16/1/</id>
+    <published>2023-06-16T01:26:21.000Z</published>
+    <updated>2023-06-16T03:54:52.524Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>computed</title>
+    <link href="http://cghscghs.github.io/2023/06/16/computed/"/>
+    <id>http://cghscghs.github.io/2023/06/16/computed/</id>
+    <published>2023-06-16T01:25:52.000Z</published>
+    <updated>2023-06-16T03:54:52.525Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>关于我和咸鱼</title>
+    <link href="http://cghscghs.github.io/2023/06/15/%E5%85%B3%E4%BA%8E%E6%88%91%E5%92%8C%E5%92%B8%E9%B1%BC/"/>
+    <id>http://cghscghs.github.io/2023/06/15/%E5%85%B3%E4%BA%8E%E6%88%91%E5%92%8C%E5%92%B8%E9%B1%BC/</id>
+    <published>2023-06-15T10:14:55.000Z</published>
+    <updated>2023-06-15T10:14:55.642Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>watch</title>
+    <link href="http://cghscghs.github.io/2023/06/15/watch/"/>
+    <id>http://cghscghs.github.io/2023/06/15/watch/</id>
+    <published>2023-06-15T08:46:21.000Z</published>
+    <updated>2023-06-15T10:07:08.239Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>子父传值</title>
+    <link href="http://cghscghs.github.io/2023/06/15/%E5%AD%90%E7%88%B6%E4%BC%A0%E5%80%BC/"/>
+    <id>http://cghscghs.github.io/2023/06/15/%E5%AD%90%E7%88%B6%E4%BC%A0%E5%80%BC/</id>
+    <published>2023-06-15T08:43:45.000Z</published>
+    <updated>2023-06-15T10:07:08.240Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>axios</title>
+    <link href="http://cghscghs.github.io/2023/06/15/axios/"/>
+    <id>http://cghscghs.github.io/2023/06/15/axios/</id>
+    <published>2023-06-15T08:42:49.000Z</published>
+    <updated>2023-06-15T10:07:08.239Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>promise</title>
+    <link href="http://cghscghs.github.io/2023/06/14/promise/"/>
+    <id>http://cghscghs.github.io/2023/06/14/promise/</id>
+    <published>2023-06-14T01:14:46.000Z</published>
+    <updated>2023-06-15T10:07:08.239Z</updated>
+    
+    <content type="html"><![CDATA[<p>说一下你对 Promise 的理解</p><span id="more"></span><h2 id="promise它是什么"><a class="markdownIt-Anchor" href="#promise它是什么"></a> Promise,它是什么</h2><h2 id="怎么使用"><a class="markdownIt-Anchor" href="#怎么使用"></a> 怎么使用</h2><h2 id="promise它的出现解决了什么问题"><a class="markdownIt-Anchor" href="#promise它的出现解决了什么问题"></a> Promise,它的出现解决了什么问题</h2><h2 id="有没有好的替代方案"><a class="markdownIt-Anchor" href="#有没有好的替代方案"></a> 有没有好的替代方案</h2><h2 id="好处是什么"><a class="markdownIt-Anchor" href="#好处是什么"></a> 好处是什么</h2><h2 id="在什么场景下应用呢"><a class="markdownIt-Anchor" href="#在什么场景下应用呢"></a> 在什么场景下应用呢？</h2><h2 id="原理是什么"><a class="markdownIt-Anchor" href="#原理是什么"></a> 原理是什么</h2>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;说一下你对 Promise 的理解&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="简信" scheme="http://cghscghs.github.io/tags/%E7%AE%80%E4%BF%A1/"/>
+    
+  </entry>
+  
+</feed>
